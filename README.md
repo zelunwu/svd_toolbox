@@ -1,7 +1,7 @@
 # Maximum Covariance Analysis Toolbox
 # Singular Values Decomposition Toolbox
 
- MCA or SVD for oceanic/atmospheric data
+ MCA or SVD for marine/atmospheric science
 
 ## Author
 
